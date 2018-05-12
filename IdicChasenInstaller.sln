@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{73393D18-DAC4-11D1-88FC-0000F8064EBB}") = "IdicChasenInstaller", "IdicChasenInstaller.wip", "{05A6E62C-312A-4111-A7CC-61C5BDC01EA2}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {05A6E62C-312A-4111-A7CC-61C5BDC01EA2}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
